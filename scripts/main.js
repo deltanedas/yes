@@ -23,7 +23,7 @@ Events.on(ClientLoadEvent, () => {
 					dialog.buttons.cells.get(1).get().fireClick();
 					// hide ugly loading dialog
 					Core.app.post(() => {
-						ui.loadfrag.hide();
+						Vars.ui.loadfrag.hide();
 						Vars.mobile = mobile;
 					});
 				});
