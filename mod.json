@@ -1,7 +1,8 @@
 {
 	"name": "yes",
-	"description": "yes",
+	"description": "yes\nAlso try Gdeft/bleach!",
 	"version": "1.1.1",
 	"minGameVersion": "120",
+	"repo": "DeltaNedas/yes",
 	"hidden": true
 }
